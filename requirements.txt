@@ -1,1 +1,6 @@
 google-adk
+matplotlib
+reportlab
+Pillow
+numpy
+yfinance
