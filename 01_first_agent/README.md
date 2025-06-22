@@ -46,7 +46,7 @@ The **Name Story Agent** is an interactive AI agent that creates personalized st
 
 1. Run the agent:
    ```python
-   python agent.py
+   adk web
    ```
 
 2. Follow the prompts:
